@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108301095469",
+    "project_id": "cloudflare-worker-e22b2",
+    "storage_bucket": "cloudflare-worker-e22b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108301095469:android:3a079ad18c205a24df1ea4",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108301095469-1ec82frmn0nqqt07e4l3rc5okmkbaeka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_signup_app",
+            "certificate_hash": "405ebf2909270888b08b9fdf9027ea137c2fffc0"
+          }
+        },
+        {
+          "client_id": "108301095469-dmoj1rverc36st2j9e2bgnq5kdpmjd44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD98LfqQCnM6Zl615XmQYUPP4O8YHGd9Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108301095469-dmoj1rverc36st2j9e2bgnq5kdpmjd44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
